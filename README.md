@@ -1,1 +1,1 @@
-## Projeto Simples de Web Scrapping usando Jupyter/Pandas/BeautifulSoup/ iterTools
+## Projeto Simples de Web Scrapping usando Jupyter/ Pandas/ BeautifulSoup/ iterTools
